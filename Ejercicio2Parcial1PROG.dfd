@@ -1,0 +1,57 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+38
+'Ingrese el primer número a calcular:'
+5
+1
+2
+n1
+4
+1
+39
+'Ingrese el segundo número a calcular:'
+5
+1
+2
+n2
+4
+1
+38
+'Ingrese el tercer número a calcular:'
+5
+1
+2
+n3
+4
+1
+38
+'Ingrese el cuarto número a calcular:'
+5
+1
+2
+n4
+6
+2
+9
+totalsuma
+5
+n1+n2
+9
+totalmult
+5
+n3*n4
+4
+1
+53
+'La suma de los dos primeros números es: ', totalsuma
+4
+1
+68
+'El producto del tercer número con el cuarto número es: ', totalmult
+1
